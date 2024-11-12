@@ -1,6 +1,6 @@
-# Building Micrograd
+# AI Engineering Learning
 
-This project is a reimplementation of Andrej Karpathy's micrograd, a tiny autograd engine that implements backpropagation over a dynamically built DAG.
+This project is a collection of learning exercises for AI Engineering.
 
 ## Prerequisites
 
