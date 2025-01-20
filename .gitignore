@@ -3,3 +3,6 @@
 venv/
 ENV/
 *.env
+# FastAI datasets and models
+fastai/images/
+fastai/bird_or_not/
